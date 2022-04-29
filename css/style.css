@@ -1,0 +1,24 @@
+#nav {
+    /* position: fixed;
+    left: 0; */
+    border-right: 5px solid gray;
+    border-radius: 5px;
+    /* position: fixeds; */
+}
+
+#nav ul {
+    overflow: scroll;
+}
+
+#nav ul{
+    margin: 0;
+    padding: 0;
+}
+
+#nav h3 {
+    padding: 20px 15px;
+}
+
+#main-doc {
+    margin: 30px 30px;
+}
